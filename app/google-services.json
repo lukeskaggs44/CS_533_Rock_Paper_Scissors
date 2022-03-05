@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112162587899",
+    "project_id": "rps-authentication",
+    "storage_bucket": "rps-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112162587899:android:4ae203f470864ce7f15c5e",
+        "android_client_info": {
+          "package_name": "cs533.rockpaperscissors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112162587899-aclak2lmi4einrbj4mmo3ged0gllvi0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZcbLo2vB1ukefk0dgWNOyDvHAfKLRtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112162587899-aclak2lmi4einrbj4mmo3ged0gllvi0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
